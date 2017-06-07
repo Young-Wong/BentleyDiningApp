@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    >
+<ScrollView
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+    <ImageView
+        android:id="@+id/imageView"
+        android:layout_alignParentTop="true"
+        android:layout_width="match_parent"
+        android:layout_height="120dp"
+         />
+
+    <TextView
+        android:id="@+id/TextHours"
+        android:layout_below="@+id/imageView"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        />
+
+    <View
+        android:id="@+id/Line1"
+        android:layout_height="1dip"
+        android:layout_below="@+id/TextHours"
+        android:layout_width="match_parent"
+        android:background="@color/Grey" />
+
+    <TextView
+        android:id="@+id/TextMenu"
+        android:layout_below="@+id/Line1"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" />
+
+    <View
+        android:id="@+id/Line2"
+        android:layout_below="@+id/TextMenu"
+        android:layout_height="1dip"
+        android:layout_width="match_parent"
+        android:background="@color/Grey" />
+
+    </RelativeLayout>
+</ScrollView>
+    
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true">
+
+    <Button
+        android:id="@+id/Button1"
+        android:layout_weight="0.5"
+        android:layout_width="wrap_content"
+        android:layout_height="25dp"
+        android:background="@color/Button"
+        android:text="GET DIRECTIONS"
+        android:textColor="@color/White"
+        android:textSize="12sp"/>
+
+    <Button
+        android:id="@+id/Button2"
+        android:layout_weight="0.5"
+        android:layout_width="wrap_content"
+        android:layout_height="25dp"
+        android:background="@color/Button"
+        android:text="VISIT WEBSITE"
+        android:textColor="@color/White"
+        android:textSize="12sp"/>
+    </LinearLayout>
+</RelativeLayout>

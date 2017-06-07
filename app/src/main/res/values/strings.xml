@@ -1,0 +1,126 @@
+<resources>
+    <string name="app_name">Campus Food</string>
+    <string name="app_heading">Locations</string>
+    <string name="hours_lowerCafe"><![CDATA[
+    <p><i><b>Operation Hours</b></i></p>
+    <p>Monday - Thursday: 11:00 a.m. - 7:00 p.m.</p>
+    <p>Friday: 11:00 a.m. - 3:00 p.m.</p>
+    Saturday - Sunday: Closed]]></string>
+    <string name="hours_Deloitte"><![CDATA[
+    <p><i><b>Operation Hours</b></i></p>
+    <p>Monday - Thursday: 7:30 a.m. - 9:30 p.m.</p>
+    <p>Friday: 7:30 a.m. - 4:00 p.m.</p>
+    <p>Saturday: 11:00 a.m. - 5:00 p.m.</p>
+    Sunday: 12:00 p.m. - 9:00 p.m.]]></string>
+    <string name ="hours_921"><![CDATA[
+    <p><i><b>Operation Hours</b></i></p>
+    <p>Monday - Thursday: 7:00 a.m. - 9:00 p.m.</p>
+    <p>Friday: 7:00 a.m. - 8:00 p.m.</p>
+    <p>Saturday: 9:00 a.m. - 8:00 p.m.</p>
+    Sunday: 9:00 a.m. - 9:00 p.m.]]></string>
+    <string name ="hours_currito"><![CDATA[
+     <p><i><b>Operation Hours</b></i></p>
+     <p>Monday - Thursday, Sunday: 12:00 p.m. - 11:00 p.m.</p>
+    Friday - Saturday: 12:00 p.m. - 7:00 p.m.]]></string>
+    <string name ="hours_dunkin"><![CDATA[
+    <p><i><b>Operation Hours</b></i></p>
+    <p>Monday - Thursday: 7:00 a.m. - 8:00 p.m.</p>
+    <p>Friday: 7:00 a.m. - 6:00 p.m.</p>
+    Saturday - Sunday: 8:00 a.m. - 6:00 p.m.
+    ]]></string>
+    <string name ="menu_lowerCafe"><![CDATA[
+    <p><i><b>Menu</b></i></p>
+    <p>Monday: Assorted Sandwiches Snack & Beverage</p>
+    <p>Tuesday: Porchetta (GF) OR Vegetarian: Eggplant Parmesan With: Roasted Potatoes (GF) Snack & Beverage</p>
+    <p>Wednesday: Herb Roasted Turkey (GF) OR Vegetarian: Butternut Squash & Lentils (GF) With Roasted Corn (GF) Snack & Beverage</p>
+    <p>Thursday: Mediterranean Salmon (GF) OR Vegetarian: Shepard’s Pie (GF) With: Rice Pilaf Snack & Beverage</p>
+    ]]></string>
+    <string name ="menu_921"><![CDATA[
+    <p><i><b>Menu</b></i></p>
+    <p>Fresh fruit and salads</p>
+    <p>Delicious, hot, home-style entrées</p>
+    <p>Simple Servings Allergen Station</p>
+    <p>Freshly baked pizza and pasta</p>
+    <p>Deli choices served on freshly baked breads</p>
+    <p>New creations by our chef just for you Ice cream and freshly baked desserts</p>
+    <p>Homemade soups and you can enjoy "all you care to eat"!</p>
+    <p>A Better Tomorrow ‘For Your Health’ Plates</p>
+    ]]></string>
+    <string name ="menu_Deloitte"><![CDATA[
+    <p><i><b>Menu</b></i></p>
+    <p><b>Bagels:</b> Classic. Thinfastic. Signature. Gourmet</p>
+    <p><b>Breakfast:</b> Egg Sandwiches. Egg Sandwiches with Cheese Only. Egg Paninis. Egg Wraps. Thintastic Eggwhites</p>
+    <p><b>Lunch:</b> Deli. Signature. Hot Paninis. Bagel Melts with Turkey & Cheddar. Bagel Melts with
+     Pepperoni Pizza. Bagel Melts with Cheese Pizza.</p>
+    <p><b>Hot, Iced or Frozen(Signature):</b> Vanilla Hazelnut Latte. White Chocolate Mocca. White
+     Chocolate Mocca. Caramel Macchiato. Caramel Macchiato. Vanilla Cream Latte</p>
+    <p><b>Hot, Iced or Frozen (Classic):</b> Latte. Mocha. Chai Tea Latte. Cappuccino. Hot, Iced
+     or Frozen. Fresh-Brewed Coffee. Iced Coffee. Green Tea. Hot Chocolate. Real Fruit Smoothie. Fountain & Iced Tea.</p>
+    ]]></string>
+    <string name="menu_currito"><![CDATA[
+    <p><i><b>Menu</b></i></p>
+    <p><b>Choose one:</b> bowl. flour tortilla. whole wheat tortilla<p>
+    <p><b>Protein:</b> grilled chicken. grilled steak. braised beef. pulled pork. organic tofu</p>
+    <p><b>Add ingredients: </b> kale. quinoa.</p>
+    <p><b>Rice: </b> cilantro lime rice. white rice. brown rice<p>
+    <p><b>Beans: </b> black beans. pinto beans. curried chick peas</p>
+    <p><b>Salsa: </b> mango salsa. pico de gallo. corn salsa</p>
+    <p><b>Toppings: </b> blue cheese celery slaw. house made hummus. Almond. sherbed croutons. rice
+     noodles. sesame seeds. jack cheese. feta cheese. sour cream</p>
+    <p><b>Dressings: </b> skinny mediterranean vinaigrette. creamy lime dressing. asian vinaigrette.
+     blue cheese dressing. balsamic dressing. caesar dressing. ranch dressing</p>
+    <p><b>Veggies: </b> bok choy. asian slaw. romaine lettuce. Cucumber. Broccoli. Celery. caramelized
+     onions. shredded carrots. scallions</p>
+    ]]></string>
+    <string name="menu_dunkin"><![CDATA[
+    <p><i><b>Menu</b></i></p>
+    <p><b>Donut</b> Fudge Croissant Donut. Bagel with Cream Cheese. Sausage, Egg & Cheese on a Croisssant
+     - with Hash Browns. Bacon, Egg & Cheese on a Bagel - with Hash Browns. Veggie Egg White Flatbread.
+      Ham, Egg & Cheese on an English Muffin - with Hash Browns. Big n\' Toasted - with Hash Browns. Wake-Up Wrap
+       (Bacon, Ham, or Sausage). Turkey Sausage Flatbread with Hash Browns.</p>
+    <p><b>DD Combos</b> Snack N\' Go Chicken Wrap. Combos Include Small Iced Tea. Snack N\' Go Steak
+     Wrap. Ham & Cheese Flatbread - with Hash Browns. Deluxe Grilled Cheese (Ham or Bacon) - with Hash Browns.
+      Turkey, Cheddar & Bacon Flatbread - with Hash Browns. Chicken Salad or Tuna Salad Sandwich - with Hash Browns.
+       Chicken Bacon Sandwich - with Hash Browns. Classic Egg & Cheese. Classic Egg & Cheese with (Ham, Bacon,
+        or Sausage). Egg White Omelet (Veggie). Egg White Omelet with (Ham, Bacon, or Sausage). Egg & Cheese
+         Wrap. Egg & Cheese Wrap with (Ham, Bacon, or Sausage). Angus Steak and Egg Wrap (Limited Time).
+          Angus Steak and Egg Sandwich (Limited Time). Angus Steak and Egg Sandwich with Hash Browns & Medium
+           Hot Coffee (Limited Time). Oatmeal with Medium Coffee. Turkey Sausage Wrap. Turkey Sausage Sandwich.
+            Turkey Sausage Flatbread with Hash Browns & Medium Hot Coffee. Chicken Apple Sausage Breakfast Sandwich
+             (Limited Time). Chicken Apple Sausage Breakfast Sandwich with Hash Browns & Medium Hot Coffee (Limited Time).</p>
+    <p><b>Bakery Favorites</b> Donut. Muffin. Bagel. Munchkins. Hash Brown. Croissant. Fancy. Coffee Roll.</p>
+    <p><b>Beverages</b> Coffee. Iced Coffee. Add a Turbo Shot of Espresso to Any Beverage. Add Almond Milk. Dunkaccino.
+     Vanilla Chai. Cappuccino. Macchiatto. Iced Macchiatto. Box O\' Joe. Hot Chocolate. Hot Tea. Latte. Iced Latte.
+      Latte Lite. Iced Latte Lite. Iced Tea or Iced Green Tea (Sweetened or Unsweetened). Coolatta or Coolatta Lite.
+       Frozen Coffee. Frozen Dunkaccino. Smotthie - Tropical Mango or Strawberry Banana (Limited Time).
+        Packaged Coffee (Limited Time). K-Cup Packs (Limited Time).</p>
+    <p><b>Sandwiches</b> Chicken Biscuit. Texas Toast Grilled Cheese. Tune Salad. Chicken Salad. Ham & Cheese Sandwich. Turkey, Cheddar & Bacon Sandwich.</p>
+    ]]></string>
+    <string name="FAQ"><![CDATA[
+    <h1>Frequently Asked Questions</h1>
+    <p>Q: I am a resident freshman, what are my meal plan options?<br>A: All freshmen are required
+     to contract for the Super Value Meal Plan or the Value 15 Meal Plan.</p>
+    <p>Q: I am an upperclassman living in an on-campus residence hall/suite, what are my meal plan
+     options?<br>A: All on-campus hall/suite residents are required to contract for the Super Value,
+      Value 15, or Value 12 Meal Plans.</p>
+     <p>Q: I live in an apartment, what are my meal plan options?<br>A: Residents of both on and off
+      campus apartments are eligible for any of the meal plans. Super Value, Value 15, Value 10,
+       APARTMENT Plan or the BLOCK 60 Plan.</p>
+      <p>Q: What are the meal plan block-out dates?<br>A: Meal plans are not in effect during Thanksgiving,
+       Semester, and Spring Breaks.</p>
+      <p>Q: What if I want to make a change to meal plan?<br>A: The date for the fall semester deadline
+       for residents of mandatory meal plan areas to lower their meal plan is September 22. The date
+        for the spring semester deadline for residents of mandatory meal plan areas to lower their
+         meal plan is February 2, 2017. Any changes made after these dates must be completed in person
+          at the Residential Center. Residents of any area can increase or add a meal plan at any time.</p>
+       <p>Q: What is the difference between Discretionary Dollars and Falcon Funds?<br>A: Discretionary
+        Dollars are part of the Meal Plan. They may only be used to purchase food at Campus Dining
+         locations (except Dunkin Donuts). Falcon Funds are money that you personally add to your Falcon
+          Fund account. They may be used on campus like a debit card. Falcon Funds are accepted at the
+           bookstore, student information desk and all campus dining locations.</p>
+    ]]></string>
+
+
+
+
+</resources>

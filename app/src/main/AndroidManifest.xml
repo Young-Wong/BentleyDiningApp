@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.yp.campusfood">
+
+    <application
+        android:allowBackup="true"
+        android:icon="@drawable/icon"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        >
+
+        <meta-data
+            android:name="com.google.android.geo.API_KEY"
+            android:value="AIzaSyDtXiz_QSeoe-I9x_im2C58EuiC54cnrcE"/>
+
+        <activity android:name=".MainActivity"
+            android:label="@string/app_heading"
+            >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+
+        <activity android:name =".CafeView"
+            android:parentActivityName=".MainActivity"
+        />
+
+        <activity android:name =".WebBrowse"
+            android:label="Website"
+            android:parentActivityName=".MainActivity"
+            />
+
+        <activity android:name =".Map"
+            android:label="Directions"
+            android:parentActivityName=".MainActivity"
+            />
+
+        <activity android:name =".Faq"
+            android:label="FAQ"
+            android:parentActivityName=".MainActivity"
+            />
+
+        <receiver android:name=".Receiver" >
+            <intent-filter>
+                <action android:name="TRIGGER_RECEIVER" />
+            </intent-filter>
+        </receiver>
+
+    </application>
+
+</manifest>

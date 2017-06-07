@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="Green">#b71af436</color>
+    <color name="White">#FFffff</color>
+    <color name="Black">#060000</color>
+    <color name="Grey">#a7a7a7</color>
+    <color name="DarkGrey">#8b8b8b</color>
+    <color name="Button">#1c9cdc</color>
+    <color name="Bentley">#cd1c9cdc</color>
+</resources>
