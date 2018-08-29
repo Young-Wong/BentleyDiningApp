@@ -1,1 +1,1 @@
-# CS680TeamProject
+BentleyDiningApp
